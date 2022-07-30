@@ -1,0 +1,20 @@
+@import 'base/normalize';
+@import 'base/variables';
+@import 'base/mixins';
+@import 'base/globals';
+@import 'base/utilities';
+@import 'base/botones';
+@import 'base/darkMode';
+
+@import 'intern/admin';
+@import 'intern/aboutus';
+
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/nav';
+@import 'layout/pics';
+@import 'layout/posts';
+@import 'layout/contactus';
+@import 'layout/bottom';
+@import 'layout/form';
+
